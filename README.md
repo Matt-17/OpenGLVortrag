@@ -3,6 +3,8 @@ Ein Vortrag über OpenGL in OpenGL
 
 2008 habe ich mein Proseminar in Computergraphik gemacht. Das Thema war Programmierung in OpenGL und daher habe ich den Vortrag auch in OpenGL programmiert: 
 
+![Programmbild](program.png)
+
 Zur Steuerung
 
 | Taste | Funktion | Bemerkung |
